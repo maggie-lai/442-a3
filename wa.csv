@@ -1,0 +1,25 @@
+id,city,state,population,latitude,longitude,gestation_8_duration,gestation_8_duration_closed,gestation_12_duration,gestation_12_duration_closed,gestation_16_duration,gestation_16_duration_closed,gestation_20_duration,gestation_20_duration_closed
+seattle-washington,Seattle,Washington,684451,47.606209,-122.332071,0,0,0,0,0,0,0,0
+spokane-washington,Spokane,Washington,213272,47.65878,-117.426046,0,0,0,4,0,4,6,8
+tacoma-washington,Tacoma,Washington,207948,47.252877,-122.444291,0,0,0,0,0,0,0,1
+vancouver-washington,Vancouver,Washington,172860,45.63184,-122.671606,0,0,0,0,0,4,0,4
+bellevue-washington,Bellevue,Washington,139820,47.61015,-122.201516,0,0,0,0,0,0,0,0
+kent-washington,Kent,Washington,126952,47.380933,-122.234843,0,0,0,0,0,0,0,0
+everett-washington,Everett,Washington,108010,47.978985,-122.202079,0,0,0,0,0,1,0,1
+renton-washington,Renton,Washington,100242,47.482878,-122.217066,0,0,0,0,0,0,0,0
+yakima-washington,Yakima,Washington,93701,46.602071,-120.505899,0,2,0,2,0,2,0,4
+federal-way-washington,Federal Way,Washington,95171,47.322322,-122.312622,0,0,0,0,0,0,0,0
+spokane-valley-washington,Spokane Valley,Washington,94919,47.673228,-117.239375,0,0,0,4,0,4,6,8
+kirkland-washington,Kirkland,Washington,87281,47.676893,-122.205983,0,0,0,0,0,0,0,0
+bellingham-washington,Bellingham,Washington,85146,48.751911,-122.478685,0,1,0,1,2,3,2,3
+kennewick-washington,Kennewick,Washington,78896,46.211246,-119.137234,0,1,0,3,0,3,3,7
+auburn-washington,Auburn,Washington,77006,47.307323,-122.228453,0,0,0,0,0,0,0,0
+pasco-washington,Pasco,Washington,69451,46.239579,-119.100566,0,1,0,3,0,3,3,7
+marysville-washington,Marysville,Washington,66773,48.051764,-122.177082,0,0,0,1,1,1,1,1
+lakewood-washington,Lakewood,Washington,59829,47.171765,-122.518458,0,0,0,0,0,0,0,1
+redmond-washington,Redmond,Washington,60598,47.673988,-122.121512,0,0,0,0,0,0,0,0
+shoreline-washington,Shoreline,Washington,55439,47.755966,-122.345697,0,0,0,0,0,0,0,0
+richland-washington,Richland,Washington,54248,46.285691,-119.284462,0,2,0,2,0,2,2,6
+sammamish-washington,Sammamish,Washington,52253,47.616268,-122.035574,0,1,0,1,1,1,1,1
+burien-washington,Burien,Washington,50467,47.466838,-122.34053,0,0,0,0,0,0,0,0
+olympia-washington,Olympia,Washington,50302,47.037874,-122.900695,0,0,0,1,1,1,1,1
